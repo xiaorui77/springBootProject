@@ -8,6 +8,7 @@ public class SpringBootDemoApplication
 {
 
     public static void main(String[] args) {
+        System.out.println("bniaho ");
         SpringApplication.run(SpringBootDemoApplication.class, args);
     }
 
